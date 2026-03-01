@@ -1,7 +1,7 @@
 [
-    "pkg-config",
     "lib-base",
     "micro",
+    "frankenphp",
     "php",
     "bzip2",
     "zlib",
